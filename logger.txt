@@ -1,0 +1,6 @@
+private final static Logger LOGGER = Logger.getLogger("com.example.controller.FacturaController");
+
+
+LOGGER.log(Level.WARNING, "---------------------------->" +dto.getFactura().getFecha());
+
+
